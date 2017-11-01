@@ -1,0 +1,8 @@
+# temporary folders and files
+pfamsql
+pfambq
+
+md5_checksums
+pfamtxt.size.txt
+pfam_gc_dl.tsv
+
